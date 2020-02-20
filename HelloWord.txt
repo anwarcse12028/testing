@@ -4,3 +4,5 @@ steps are:
 2. git add .
 3. git commit -m "Comments"
 4. git push origin master
+5. git checkout -b "branch_name" to crate a branch
+6. git pull to pull latest changes from git
