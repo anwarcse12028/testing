@@ -6,3 +6,5 @@ steps are:
 4. git push origin master
 5. git checkout -b "branch_name" to crate a branch
 6. git pull to pull latest changes from git
+7. git staus to check my current status
+8. git log to see all activites
