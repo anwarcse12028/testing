@@ -8,3 +8,4 @@ steps are:
 6. git pull to pull latest changes from git
 7. git staus to check my current status
 8. git log to see all activites
+9. git push --set-upstream origin bc2 to crate a branch from local file
